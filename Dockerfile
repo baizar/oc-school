@@ -1,3 +1,3 @@
 FROM openshift/hello-openshift
 
-ENV RESPONSE="Hola clase!"
+ENV RESPONSE="Hola Álvaro"
